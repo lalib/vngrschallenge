@@ -1,0 +1,12 @@
+<contact>
+	<id>deneme</id>
+	<name>Bilal</name>
+	<lastName>Alp</lastName>
+	<phones>05544558231</phones>
+</contact>
+<contact>
+	<id>deneme2</id>
+	<name>Bilal2</name>
+	<lastName>Alp2</lastName>
+	<phones>055445582312</phones>
+</contact>
