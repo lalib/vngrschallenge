@@ -27,5 +27,7 @@ The tests are under the src/test/java
 There are 3 options in program. 
 
 1 - File Insert : You given the file path then it processes.
+
 2 - Name Search : If you'd like to search name of a contact. you can use this menu.
+
 3 - Exit        : End the program.
