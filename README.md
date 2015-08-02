@@ -6,7 +6,7 @@ You can run application with typing java -jar vngrschallenge-0.0.1-SNAPSHOT.jar
 
 The default mongodb connection properties are for the localhost. If you want to override them, you can give parameters as JVM arguments such as
 
--Dspring.data.mongodb.host=YOUR?MONGODB_HOST
+-Dspring.data.mongodb.host=YOUR_MONGODB_HOST
 
 -Dspring.data.mongodb.port=YOUR_MONGODB_PORT
 
