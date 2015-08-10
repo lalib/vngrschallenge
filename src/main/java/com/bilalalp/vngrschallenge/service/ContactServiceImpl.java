@@ -55,7 +55,9 @@ public class ContactServiceImpl implements ContactService {
     public void searchByName(final String name) {
 
         final List<Contact> contactList = contactRepository.findByNameLike(name);
-        contactList.forEach(System.out::println);
+        for(final Contact contact : contactList){
+            System.out.println(contact);
+        }
     }
 
     /**
