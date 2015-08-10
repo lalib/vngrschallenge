@@ -22,7 +22,8 @@ public class IoServiceTest {
     public void before() {
         ioService = new IoServiceImpl();
     }
-
+    
+    @Ignore
     @Test
     public void readFile() throws IOException {
 
