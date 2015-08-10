@@ -1,4 +1,4 @@
-# vngrschallenge
+# vngrschallenge [![Build Status](https://travis-ci.org/lalib/vngrschallenge.svg?branch=master)](https://travis-ci.org/lalib/vngrschallenge)
 
 #Running
 
